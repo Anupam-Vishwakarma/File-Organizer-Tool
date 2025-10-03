@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:GMT+5:30
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20250602T100000
+DTEND;TZID=Asia/Kolkata:20250602T103000
+DTSTAMP:20250601T104136Z
+ORGANIZER;CN=Deepak Kumar:mailto:deepak@magicbi.ai
+UID:2n281v6ipv1ima11ds0dqmurof@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=krishnaanupam56@gmail.com;X-NUM-GUESTS=0:mailto:krishnaanupam56@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=adityaprataps119@gmail.com;X-NUM-GUESTS=0:mailto:adityaprataps119@g
+ mail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Deepak Kumar;X-NUM-GUESTS=0:mailto:deepak@magicbi.ai
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Hardik Chheda;X-NUM-GUESTS=0:mailto:hardik@magicbi.ai
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Abhishek Saini;X-NUM-GUESTS=0:mailto:abhishek@magicbi.ai
+X-GOOGLE-CONFERENCE:https://meet.google.com/phh-pdxc-zfe
+X-MICROSOFT-CDO-OWNERAPPTID:-663980665
+CREATED:20250601T104131Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ph
+ h-pdxc-zfe\nOr dial: (US) +1 814-826-1325 PIN: 449131127#\nMore phone numbe
+ rs: https://tel.meet/phh-pdxc-zfe?pin=4550763058531&hs=7\n\nLearn more abou
+ t Meet at: https://support.google.com/a/users/answer/9282720\n\nPlease do n
+ ot edit this section.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250601T104133Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Meeting the Founders <> Orientation
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
